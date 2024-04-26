@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    position: left # position of the sidebar : left or right
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    position: right # position of the sidebar : left or right
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -59,13 +59,13 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: | #
-      # Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      # adipiscing elit. You can [download this free resume/CV template here]().
-      # Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      # penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      # Donec quam felis, ultricies nec, pellentesque eu.
-      # Second paragraph if required.
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
     title: Education
     info:
@@ -93,50 +93,50 @@ experiences:
       - role: Deputy Head of Data Management
         time: 2020 - Present
         company: CTU Bern, University of Bern
-        details: | #
-          # Describe your role here lorem ipsum dolor sit amet, consectetuer
-          # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          # Cum sociis natoque penatibus et magnis dis parturient montes,
-          # nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          # pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          # enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          # error sit voluptatem accusantium doloremque laudantium, totam rem
-          # aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          # architecto beatae vitae dicta sunt explicabo.
-          #   - Bullet point
-          #   - Bullet point
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
       - role: Head of Data Management
         time: 2011 - 2020
         company: CTU Bern, University of Bern
-        details: | #
-          # Describe your role here lorem ipsum dolor sit amet, consectetuer
-          # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          # Cum sociis natoque penatibus et magnis dis parturient montes,
-          # nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          # pellentesque eu, pretium quis, sem.
-          #   - Bullet point
-          #   - Bullet point
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
       - role: Software Developer EDC Solutions
         time: 2007 - 2011
         company: Swiss Group for Clinical Cancer Research (SAKK), Bern
-        details: | #
-          # Describe your role here lorem ipsum dolor sit amet, consectetuer
-          # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          # Cum sociis natoque penatibus et magnis dis parturient montes,
-          # nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          # pellentesque eu, pretium quis, sem.
-          #   - Bullet point
-          #   - Bullet point
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
       - role: Software Developer
         time: 2008 - 2010
         company: CTU Bern, University of Bern
         details: |
-          # Describe your role
+          Describe your role
       - role: Associate Systems Programmer / Systems Analyst / IT Officer / Webmaster
         time: 2004 - 2007
         company: United Nations (OHCHR/OCHA/DPKO), working in Geneva/Nepal/Côte d’Ivoire
         details: |
-          # Describe your role
+          Describe your role
         
 # certifications:
 #       title: Certifications
