@@ -14,13 +14,13 @@ sidebar:
 
     # Sidebar links
     email: murielhelmers@hotmail.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
+    phone: # 012 345 6789
+    timezone: # America/Cancun Timezone
+    citizenship: Switzerland
     website: # blog.webjeda.com #do not add http://
     linkedin: murielhelmers
     xing: # alandoe
-    github: murielhelmers
+    github: # murielhelmers
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: # http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -51,10 +51,10 @@ sidebar:
         - item: Yoga
           link:
 
-        - item: Snowboarding
+        - item: Nature
           link:
 
-        - item: Cooking
+        - item: Traveling
           link:
 
 career-profile:
@@ -70,27 +70,22 @@ education:
     title: Education
     info:
       - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+        university: University of Bern
+        time: 1997 - 2002
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Master thesis in AI: "Generation and Use of Synthetic Training Data in Cursive Handwriting Recognition"
+          <https://link.springer.com/chapter/10.1007/978-3-540-44871-6_39>
+      - degree: Postgraduate Diploma in Development Management
+        university: The Open University, United Kingdom
+        time: 2007 - 2008
+        details: |#
+          # Describe your study here lorem ipsum dolor sit amet, consectetuer
+          # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          # sociis natoque penatibus et magnis dis parturient montes, nascetur
+          # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          # pretium quis, sem.
+          #   - Bullet point
+          #   - Bullet point
 
 experiences:
     title: Experiences
