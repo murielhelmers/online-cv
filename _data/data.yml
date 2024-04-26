@@ -125,6 +125,7 @@ experiences:
             - Quality insurance 
 
             Technologies: .net, C#, SQL, HTML, Reporting Services, IIS
+            
       - role: Software Developer
         time: 2008 - 2010
         company: CTU Bern, University of Bern
@@ -136,6 +137,7 @@ experiences:
           - Definition of standard operating procedures (SOPs) on data management 
           
           Technologies: .net, C#, SQL, HTML, Reporting Services
+          
       - role: Webmaster
         time: 2007
         company: United Nations (DPKO). Location: Abidjan, Côte d’Ivoire
