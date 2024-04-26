@@ -94,26 +94,24 @@ experiences:
         time: 2020 - Present
         company: CTU Bern, University of Bern
         details: |
-          - Setting up the Reporting and data visualization group.
-          - Creating Quarto & shiny apps
-          - Implementing Data import/migrations
-          - Implementing Reserach Databases
-          - Introducing REDCap at the general university level
-
-          Technologies: R, Quarto, Shiny, SQL, HTML
+          Leading role in setting up the Reporting and data visualization group.
+            - Creating Quarto & shiny apps
+            - Data import/migrations
             
-      - role: Head of Data Management
-        time: 2011 - 2020
-        company: CTU Bern, University of Bern
-        details: |
             - Building up the data management division during the phase of strong growth of the CTU (from five up to 50 people).
-            - Introduction & establishment of Clinical Data management system REDCap at CTU Bern and at the Institute of Social 
-            and Preventive Medicine. CTU Bern became one of Switzerland's most advanced & experienced REDCap partner.
+            - Introduction & establishment of Clinical Data management system “REDCap” at CTU Bern and at the Institute of Social and Preventive Medicine. CTU Bern became one of Switzerland's most advanced & experienced REDCap partner.
             - Setting up a Quality Management System (SOPs, WIs, Processes, templates) for CTU Bern’s Data Management division. 
             - Teaching: GCP compliant data management, REDCap database setup.
             
           Technologies: SQL, HTML
-          
+
+      - role: Head of Data Management
+        time: 2011 - 2020
+        company: CTU Bern, University of Bern
+        details: |
+          Building up the data management division during the phase of strong growth of the CTU (from five up to 50 people).
+          Introduction & establishment of Clinical Data management system “REDCap” at CTU Bern and at the Institute of Social and Preventive Medicine. CTU Bern became one of Switzerland's most advanced & experienced REDCap partner.
+          Setting up a Quality Management System (SOPs, WIs, Processes, templates) for CTU Bern’s Data Management division. 
       - role: Software Developer EDC Solutions
         time: 2007 - 2011
         company: Swiss Group for Clinical Cancer Research (SAKK), Bern
