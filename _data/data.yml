@@ -72,8 +72,7 @@ education:
       - degree: MSc in Computer Science
         university: University of Bern
         time: 1997 - 2002
-        details: |
-          Master thesis in AI: "Generation and Use of Synthetic Training Data in Cursive Handwriting Recognition"
+        details: Master thesis in AI: "Generation and Use of Synthetic Training Data in Cursive Handwriting Recognition"
           <https://link.springer.com/chapter/10.1007/978-3-540-44871-6_39>
       - degree: Postgraduate Diploma in Development Management
         university: The Open University, United Kingdom
