@@ -101,17 +101,26 @@ experiences:
         time: 2011 - 2020
         company: CTU Bern, University of Bern
         details: |
-          Setting up the DM division from scratch
+          Building up the data management division during the phase of strong growth of the CTU (from five up to 50 people).
+          Introduction & establishment of Clinical Data management system “REDCap” at CTU Bern and at the Institute of Social and Preventive Medicine. CTU Bern became one of Switzerland's most advanced & experienced REDCap partner.
+          Setting up a Quality Management System (SOPs, WIs, Processes, templates) for CTU Bern’s Data Management division. 
       - role: Software Developer EDC Solutions
         time: 2007 - 2011
         company: Swiss Group for Clinical Cancer Research (SAKK), Bern
         details: |
-          Participated in the development of a web based EDC system
+            - Enhancement of SAKK’s System for Electronic Data Capture (EDC)
+            - Implementation of clinical trials in SAKK’s EDC System.
+            - Project management
+            - Setting up a collaboration network with several Swiss CTUs (Clinical Trial Units)
+            - Training of CTU’s data managers
+            - Quality insurance 
+
+            Technologies: .net, C#, SQL, HTML, Reporting Services, IIS
       - role: Software Developer
         time: 2008 - 2010
         company: CTU Bern, University of Bern
         details: |
-          Setting up clinical trials using the web based EDC systems developed at SAKK (see above) 
+          Setting up clinical trials using the web based EDC systems Sinatras, developed at SAKK (see above) 
       - role: Associate Systems Programmer / Systems Analyst / IT Officer / Webmaster
         time: 2004 - 2007
         company: United Nations (OHCHR/OCHA/DPKO), working in Geneva/Nepal/Côte d’Ivoire
