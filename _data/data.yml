@@ -59,7 +59,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
+    summary: | #
       # Summarise your career here lorem ipsum dolor sit amet, consectetuer
       # adipiscing elit. You can [download this free resume/CV template here]().
       # Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
@@ -93,7 +93,7 @@ experiences:
       - role: Deputy Head of Data Management
         time: 2020 - Present
         company: CTU Bern, University of Bern
-        details: |
+        details: | #
           # Describe your role here lorem ipsum dolor sit amet, consectetuer
           # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           # Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -108,7 +108,7 @@ experiences:
       - role: Head of Data Management
         time: 2011 - 2020
         company: CTU Bern, University of Bern
-        details: |
+        details: | #
           # Describe your role here lorem ipsum dolor sit amet, consectetuer
           # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           # Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -119,7 +119,7 @@ experiences:
       - role: Software Developer EDC Solutions
         time: 2007 - 2011
         company: Swiss Group for Clinical Cancer Research (SAKK), Bern
-        details: |
+        details: | #
           # Describe your role here lorem ipsum dolor sit amet, consectetuer
           # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           # Cum sociis natoque penatibus et magnis dis parturient montes,
