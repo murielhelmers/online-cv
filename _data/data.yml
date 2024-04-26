@@ -250,22 +250,22 @@ skills:
 
     toolset:
       - name: Clinical Research
-        level: 90%
+        level: 95%
 
       - name: Clinical Data Management
-        level: 90%
+        level: 95%
 
       - name: R
-        level: 70%
+        level: 80%
 
       - name: Shiny & Quarto
-        level: 50%
+        level: 80%
 
       - name: HTML
-        level: 50%
+        level: 80%
 
       - name: C&#35;
-        level: 50%
+        level: 70%
 
 
 footer: >
