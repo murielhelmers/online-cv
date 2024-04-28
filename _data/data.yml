@@ -96,9 +96,10 @@ experiences:
         details: |
           Leading role in setting up the Reporting and data visualization group.
             - Creating Quarto reports & shiny apps
-            - Programming data imports / data migrations
+            - Programming data imports / data migrations into REDCap/secuTrial
             - Implementing reserach databases
-          Introducing REDCap at the university level
+          Introducing REDCap at the university level.
+          Actively contributing to SCTO's working group on creating a shiny template for clinical studies.
 
           Technologies: R, Quarto, Shiny, SQL, HTML
 
@@ -106,9 +107,10 @@ experiences:
         time: 2011 - 2020
         company: CTU Bern, University of Bern
         details: |
-          Building up the data management division during the phase of strong growth of the CTU (from five up to 50 people).
-            - Introduction & establishment of Clinical Data management system “REDCap” at CTU Bern and at the Institute of Social and Preventive Medicine. CTU Bern became one of Switzerland's most advanced & experienced REDCap partner.
+          Building up the data management division during the phase of strong growth of the CTU (from 5 up to 50 people).
+            - Introduction & establishment of Clinical Data management system  REDCap at CTU Bern and at the Institute of Social and Preventive Medicine. CTU Bern became one of Switzerland's most advanced & experienced REDCap partner.
             - Setting up a Quality Management System (SOPs, WIs, Processes, templates) for CTU Bern’s Data Management division. 
+            - Implementing research databases in REDCap & secuTrial
             - Teaching: GCP compliant data management, REDCap database setup.
             
           Technologies: SQL, HTML
@@ -117,7 +119,7 @@ experiences:
         time: 2007 - 2011
         company: Swiss Group for Clinical Cancer Research (SAKK), Bern
         details: |
-            - Enhancement of SAKK’s System for Electronic Data Capture (EDC)
+            - Enhancement of SAKK’s inhouse system for Electronic Data Capture (EDC)
             - Implementation of clinical trials in SAKK’s EDC System.
             - Project management
             - Setting up a collaboration network with several Swiss CTUs (Clinical Trial Units)
@@ -131,6 +133,14 @@ experiences:
         company: CTU Bern, University of Bern
         details: |
           Setting up clinical trials using the web based EDC systems Sinatras, developed at SAKK (see above) 
+            - Consultancy work during planning, setup and conduct of clinical trials
+            - Project management
+            - Implementation of clinical trials in EDC systems
+            - Trainings on case report form design, data management and data cleaning
+            - Definition of standard operating procedures (SOPs) on data management 
+          
+          Technologies: .net, C#, SQL, HTML, Reporting Services
+
       - role: Associate Systems Programmer / Systems Analyst / IT Officer / Webmaster
         time: 2004 - 2007
         company: United Nations (OHCHR/OCHA/DPKO), working in Geneva/Nepal/Côte d’Ivoire
