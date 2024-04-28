@@ -141,9 +141,27 @@ experiences:
           
           Technologies: .net, C#, SQL, HTML, Reporting Services
 
-      - role: Associate Systems Programmer / Systems Analyst / IT Officer / Webmaster
-        time: 2004 - 2007
-        company: United Nations (OHCHR/OCHA/DPKO), working in Geneva/Nepal/Côte d’Ivoire
+      - role: Webmaster
+        time: 2007
+        company: United Nations (DPKO). Location: Abidjan, Côte d’Ivoire
+        details: |
+          Developing a webbased funding monitoring system. Created Reports using Crystal reports.
+        
+      - role: Systems Analyst/Programmer
+        time: 2006
+        company: United Nations (OCHA). Location: Geneva, Switzerland
+        details: |
+          Developing a webbased funding monitoring system. Created Reports using Crystal reports.
+        
+      - role: IT Officer
+        time: 2005
+        company: United Nations (OHCHR), Location: Kathmandu, Nepal
+        details: |
+          Developing a webbased funding monitoring system. Created Reports using Crystal reports.
+        
+      - role: Associate Systems Programmer
+        time: 2004 - 2005
+        company: United Nations (OHCHR), Location: Geneva, Switzerland
         details: |
           Developing a webbased funding monitoring system. Created Reports using Crystal reports.
         
