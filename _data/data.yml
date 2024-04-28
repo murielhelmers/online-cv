@@ -94,11 +94,11 @@ experiences:
         time: 2020 - Present
         company: CTU Bern, University of Bern
         details: |
-          Leading role in setting up the Reporting and data visualization group.
+          Leading role in setting up the Reporting and Data Visualization group.
             - Creating Quarto reports & shiny apps
             - Programming data imports / data migrations into REDCap/secuTrial
-            - Implementing reserach databases
-          Introducing REDCap at the university level.
+            - Implementing research databases
+          Introducing REDCap at the general university level.
           Actively contributing to SCTO's working group on creating a shiny template for clinical studies.
 
           Technologies: R, Quarto, Shiny, SQL, HTML
@@ -109,7 +109,9 @@ experiences:
         details: |
           Building up the data management division during the phase of strong growth of the CTU (from 5 up to 50 people).
             - Introduction & establishment of Clinical Data management system  REDCap at CTU Bern and at the Institute of Social and Preventive Medicine. CTU Bern became one of Switzerland's most advanced & experienced REDCap partner.
-            - Setting up a Quality Management System (SOPs, WIs, Processes, templates) for CTU Bern’s Data Management division. 
+            - Setting up a Quality Management System (SOPs, Work Instructions, processes, templates) for CTU Bern’s Data Management division. 
+            - Project management
+            - Consultancy work during planning, setup and conduct of clinical trials
             - Implementing research databases in REDCap & secuTrial
             - Teaching: GCP compliant data management, REDCap database setup.
             
@@ -145,15 +147,17 @@ experiences:
         time: 2007
         company: United Nations (DPKO), Abidjan (Côte d’Ivoire)
         details: |
-          Migration of existing static Website to dynamic site based on a content management System (CMS).
-          Supervision and training of 2 local IT staff members.
+            - Migration of existing static website to dynamic site based on a Content Management System (CMS).
+            - Supervision and training of 2 local IT staff members.
+          
+          Technologies: Drupal, PHP, MySQL, HTML, IIS, Lotus Notes
         
       - role: Systems Analyst / Programmer
         time: 2006
         company: United Nations (OCHA), Geneva
         details: |
-          Development of different web based systems for the management and tracking of pledges, contributions and projects.
-          Recruitment of IT consultants.
+            - Development of different web based systems for the management and tracking of pledges, contributions and projects.
+            - Recruitment of IT consultants.
           
           Technologies: .net, VB.net, SQL, HTML, Crystal Reports, IIS, DotNetNuke
         
