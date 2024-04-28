@@ -147,17 +147,15 @@ experiences:
         time: 2007
         company: United Nations (DPKO), Abidjan (Côte d’Ivoire)
         details: |
-            - Migration of existing static website to dynamic site based on a Content Management System (CMS).
-            - Supervision and training of 2 local IT staff members.
-          
-          Technologies: Drupal, PHP, MySQL, HTML, IIS, Lotus Notes
+          Migration of existing static website to dynamic site based on a Content Management System (CMS).
+          Supervision and training of 2 local IT staff members.
         
       - role: Systems Analyst / Programmer
         time: 2006
         company: United Nations (OCHA), Geneva
         details: |
-            - Development of different web based systems for the management and tracking of pledges, contributions and projects.
-            - Recruitment of IT consultants.
+          Development of different web based systems for the management and tracking of pledges, contributions and projects.
+          Recruitment of IT consultants.
           
           Technologies: .net, VB.net, SQL, HTML, Crystal Reports, IIS, DotNetNuke
         
