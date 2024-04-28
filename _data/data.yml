@@ -143,25 +143,27 @@ experiences:
 
       - role: Webmaster
         time: 2007
-        company: United Nations (DPKO), working in Côte d’Ivoire
+        company: United Nations (DPKO), Abidjan (Côte d’Ivoire)
         details: |
-          Developing a webbased funding monitoring system. Created Reports using Crystal reports.
+          Migration of existing static Website to dynamic site based on a content management System (CMS).
+          Supervision and training of 2 local IT staff members.
         
       - role: Systems Analyst / Programmer
         time: 2006
-        company: United Nations (OCHA), working in Geneva
+        company: United Nations (OCHA), Geneva
         details: |
-          Developing a webbased funding monitoring system. Created Reports using Crystal reports.
+          Development of different web based systems for the management and tracking of pledges, contributions and projects.
+          Recruitment of IT consultants.
         
       - role: IT Officer
         time: 2005
-        company: United Nations (OHCHR), working in Nepal
+        company: United Nations (OHCHR), Kathmandu (Nepal)
         details: |
           Developing a webbased funding monitoring system. Created Reports using Crystal reports.
         
       - role: Associate Systems Programmer
         time: 2004 - 2005
-        company: United Nations (OHCHR), working in Geneva
+        company: United Nations (OHCHR), Geneva
         details: |
           Developing a webbased funding monitoring system. Created Reports using Crystal reports.
         
@@ -283,10 +285,10 @@ skills:
       - name: Clin. Data Management
         level: 100%
 
-      - name: Software life cycle
+      - name: Clinical Research
         level: 95%
 
-      - name: Clinical Research
+      - name: Software Life Cycle
         level: 95%
 
       - name: R
