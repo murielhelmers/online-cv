@@ -134,12 +134,12 @@ experiences:
         time: 2008 - 2010
         company: CTU Bern, University of Bern
         details: |
-          Setting up clinical trials using the web based EDC systems Sinatras, developed at SAKK (see above) 
-            - Consultancy work during planning, setup and conduct of clinical trials
-            - Project management
-            - Implementation of clinical trials in EDC systems
-            - Trainings on case report form design, data management and data cleaning
-            - Definition of standard operating procedures (SOPs) on data management 
+          Setting up clinical trials using the web based EDC systems Sinatras, developed at SAKK (see above). 
+            - Consultancy work during planning, setup and conduct of clinical trials. 
+            - Project management. 
+            - Implementation of clinical trials in EDC systems. 
+            - Trainings on case report form design, data management and data cleaning. 
+            - Definition of standard operating procedures (SOPs) on data management. 
           
           Technologies: .net, C#, SQL, HTML, Reporting Services
 
@@ -179,9 +179,9 @@ experiences:
         time: 2001 - 2004
         company: The Swiss Post, Bern
         details: |
-          Programming of various web based systems
-          Project management for software development projects
-          Translation of German systems into French
+          - Programming of various web based systems. 
+          - Project management for software development projects. 
+          - Translation of German systems into French. 
 
           Technologies: ASP, VBScript, .net, C#, SQL, HTML
 
