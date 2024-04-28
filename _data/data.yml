@@ -248,10 +248,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Clinical Research
+      - name: REDCap
+        level: 100%
+
+      - name: Clin. Data Management
+        level: 100%
+
+      - name: Software life cycle
         level: 95%
 
-      - name: Clinical Data Management
+      - name: Clinical Research
         level: 95%
 
       - name: R
