@@ -96,7 +96,7 @@ experiences:
         details: |
           Leading role in setting up the Reporting and Data Visualization group.
             - Creating Quarto reports & shiny apps
-            - Programming data imports / data migrations into REDCap/secuTrial
+            - Programming data imports / data migrations into REDCap/secuTrial. 
             - Implementing research databases
           Introducing REDCap at the general university level.
           Actively contributing to SCTO's working group on creating a shiny template for clinical studies.
@@ -111,8 +111,8 @@ experiences:
             - Introduction & establishment of Clinical Data management system  REDCap at CTU Bern and at the Institute of Social and Preventive Medicine. CTU Bern became one of Switzerland's most advanced & experienced REDCap partner.
             - Setting up a Quality Management System (SOPs, Work Instructions, processes, templates) for CTU Bern’s Data Management division. 
             - Project management
-            - Consultancy work during planning, setup and conduct of clinical trials
-            - Implementing research databases in REDCap & secuTrial
+            - Consultancy work during planning, setup and conduct of clinical trials. 
+            - Implementing research databases in REDCap & secuTrial. 
             - Teaching: GCP compliant data management, REDCap database setup.
             
           Technologies: SQL, HTML
@@ -121,11 +121,11 @@ experiences:
         time: 2007 - 2011
         company: Swiss Group for Clinical Cancer Research (SAKK), Bern
         details: |
-            - Enhancement of SAKK’s inhouse system for Electronic Data Capture (EDC)
-            - Implementation of clinical trials in SAKK’s EDC System.
+            - Enhancement of SAKK’s inhouse system for Electronic Data Capture (EDC). 
+            - Implementation of clinical trials in SAKK’s EDC System. 
             - Project management
-            - Setting up a collaboration network with several Swiss CTUs (Clinical Trial Units)
-            - Training of CTU’s data managers
+            - Setting up a collaboration network with several Swiss CTUs (Clinical Trial Units). 
+            - Training of CTU’s data managers. 
             - Quality insurance 
 
             Technologies: .net, C#, SQL, HTML, Reporting Services, IIS
