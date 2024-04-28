@@ -154,18 +154,22 @@ experiences:
         details: |
           Development of different web based systems for the management and tracking of pledges, contributions and projects.
           Recruitment of IT consultants.
+          
+          Technologies: .net, VB.net, SQL, HTML, Crystal Reports, IIS, DotNetNuke
         
       - role: IT Officer
         time: 2005
         company: United Nations (OHCHR), Kathmandu (Nepal)
         details: |
-          Developing a webbased funding monitoring system. Created Reports using Crystal reports.
+          IT responsible during the start of the set up of the new OHCHR office in Kathmandu.
         
       - role: Associate Systems Programmer
         time: 2004 - 2005
         company: United Nations (OHCHR), Geneva
         details: |
-          Developing a webbased funding monitoring system. Created Reports using Crystal reports.
+          Development of a web based system for the tracking and management of projects, pledges, grants and expenditures.
+
+          Technologies: .net, C#, SQL, HTML, Crystal Reports, IIS
         
 
 # certifications:
