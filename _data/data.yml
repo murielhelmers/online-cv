@@ -67,7 +67,7 @@ sidebar:
 #       Donec quam felis, ultricies nec, pellentesque eu.
 #       Second paragraph if required.
 experiences:
-    title: Experiences
+    title: Work Experience
     info:
       - role: Deputy Head of Data Management
         time: 2020 - Present
@@ -183,7 +183,7 @@ education:
 
 
 certifications:
-      title: Professional Development
+      title: Professional Development & Extracurricular
       list:
         - name: General Training
           # start: 2020
