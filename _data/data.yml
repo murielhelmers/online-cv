@@ -270,15 +270,24 @@ education:
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Professional Development
     intro: |
       Master thesis in the field of AI and the generation of artificial training data.
     papers:
-      - title: Generation and Use of Synthetic Training Data in Cursive Handwriting Recognition
-        link: "https://link.springer.com/chapter/10.1007/978-3-540-44871-6_39"
-        authors: Muriel Helmers and Horst Bunke
-        conference: IbPRIA, 2003
+      - title: General Training
+        link: "#"
+        tagline: Muriel Helmers and Horst Bunke
 
+# publications:
+#     title: Publications
+#     intro: |
+#       Master thesis in the field of AI and the generation of artificial training data.
+#     papers:
+#       - title: Generation and Use of Synthetic Training Data in Cursive Handwriting Recognition
+#         link: "https://link.springer.com/chapter/10.1007/978-3-540-44871-6_39"
+#         authors: Muriel Helmers and Horst Bunke
+#         conference: IbPRIA, 2003
+# 
       # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
       #   link: "#"
       #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
@@ -300,6 +309,9 @@ skills:
         level: 100%
 
       - name: Clinical Research
+        level: 95%
+
+      - name: Project Management
         level: 95%
 
       - name: Software Life Cycle
