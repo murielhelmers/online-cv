@@ -5,7 +5,7 @@
 sidebar:
     position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Muriel Helmers
@@ -51,10 +51,10 @@ sidebar:
         - item: Kundalini Yoga
           link:
 
-        - item: Nature
+        - item: Travelling
           link:
 
-        - item: Traveling
+        - item: Nature
           link:
 
 # career-profile:
@@ -73,13 +73,16 @@ education:
         university: University of Bern
         time: 1997 - 2002
         details: |
-          Master thesis in AI: "Generation and Use of Synthetic Training Data in Cursive Handwriting Recognition"
+          Specialization: Artificial intelligence, pattern recognition
+          Master thesis: "Generation and Use of Synthetic Training Data in Cursive Handwriting Recognition"
           <https://link.springer.com/chapter/10.1007/978-3-540-44871-6_39>
+          Grade: 5.5/6
       - degree: Postgraduate Diploma in Development Management
         university: The Open University, United Kingdom
         time: 2007 - 2008
-        details: |#
-          # Describe your study here lorem ipsum dolor sit amet, consectetuer
+        details: |
+          Courses: Capacities for managing development, Development context and practice
+          Grade: 68/100, passed with merit
           # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           # sociis natoque penatibus et magnis dis parturient montes, nascetur
           # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
