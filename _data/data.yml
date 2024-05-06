@@ -74,21 +74,15 @@ education:
         time: 1997 - 2002
         details: |
           Specialization: Artificial intelligence, pattern recognition
-          Master thesis: "Generation and Use of Synthetic Training Data in Cursive Handwriting Recognition"
+          - Master thesis: "Generation and Use of Synthetic Training Data in Cursive Handwriting Recognition"
           <https://link.springer.com/chapter/10.1007/978-3-540-44871-6_39>
-          Grade: 5.5/6
+          - Grade: 5.5/6
       - degree: Postgraduate Diploma in Development Management
         university: The Open University, United Kingdom
         time: 2007 - 2008
         details: |
-          Courses: Capacities for managing development, Development context and practice
-          Grade: 68/100, passed with merit
-          # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          # sociis natoque penatibus et magnis dis parturient montes, nascetur
-          # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          # pretium quis, sem.
-          #   - Bullet point
-          #   - Bullet point
+          - Courses: Capacities for managing development, Development context and practice
+          - Grade: 68/100, passed with merit 
 
 experiences:
     title: Experiences
