@@ -273,10 +273,10 @@ publications:
     title: Professional Development
     intro: |
       Master thesis in the field of AI and the generation of artificial training data.
-    papers:
+    contributions:
       - title: General Training
-        link: "#"
-        tagline: Muriel Helmers and Horst Bunke
+        # link: "#"
+        tagline: Communication, leadership, project management, collaborative negotiation, conflict management, security in the field
 
 # publications:
 #     title: Publications
