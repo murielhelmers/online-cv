@@ -193,8 +193,8 @@ certifications:
           # credentialurl: www.google.com
           # credentialname: Google
           details: |
-            Communication, leadership, project management, collaborative negotiation, conflict management, security in the field
-        - name: IT training
+            Communication, leadership, motivation, project management, collaborative negotiation, conflict management.
+        - name: Clinical Research
           # start: 2019
           # end:
           # organization: Microsoft
@@ -202,7 +202,25 @@ certifications:
           # credentialurl: www.github.com
           # credentialname: Github
           details: |
-            R, Shiny, Quarto, Data visualisation, WebServices, SQL, SQL Server administration
+            GCP, epidemiology, data management for clinical research, questionnaire design, protecting human research participants.
+        - name: IT Training
+          # start: 2019
+          # end:
+          # organization: Microsoft
+          # credentialid: 111-222
+          # credentialurl: www.github.com
+          # credentialname: Github
+          details: |
+            R, Shiny, Quarto, Data visualisation, C#, .net, web services, SQL, SQL Server administration.
+        - name: Miscellaneous
+          # start: 2019
+          # end:
+          # organization: Microsoft
+          # credentialid: 111-222
+          # credentialurl: www.github.com
+          # credentialname: Github
+          details: |
+            Flight training on Cessna 152, Kundalini Yoga (75h, 50h), security in the field.
 
 # projects:
 #     title: Projects
