@@ -275,8 +275,16 @@ publications:
       Master thesis in the field of AI and the generation of artificial training data.
     contributions:
       - title: General Training
-        # link: "#"
+        link: "#"
         tagline: Communication, leadership, project management, collaborative negotiation, conflict management, security in the field
+
+      - title: IT Training
+        link: "#"
+        tagline: R, Shiny, Quarto, Data visualisation, WebServices, SQL, SQL Server administration
+
+      - title: Miscellaneous
+        link: "#"
+        tagline: Flight training Cessna 152, Kundalini Yoga
 
 # publications:
 #     title: Publications
