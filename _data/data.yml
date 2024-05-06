@@ -80,7 +80,7 @@ experiences:
           Introducing REDCap at the general university level.
           Actively contributing to SCTO's working group on creating a shiny template for clinical studies.
 
-          Technologies: R, Quarto, Shiny, SQL, HTML
+          Technologies: REDCap, R, Quarto, Shiny, SQL, HTML, secuTrial
 
       - role: Head of Data Management
         time: 2011 - 2020
@@ -94,7 +94,7 @@ experiences:
             - Implementing research databases in REDCap & secuTrial. 
             - Teaching: GCP compliant data management, REDCap database setup.
             
-          Technologies: SQL, HTML
+          Technologies: REDCap, secuTrial, SQL, HTML 
 
       - role: Software Developer EDC Solutions
         time: 2007 - 2011
@@ -193,7 +193,7 @@ certifications:
           # credentialurl: www.google.com
           # credentialname: Google
           details: |
-            Communication, leadership, motivation, project management, collaborative negotiation, conflict management.
+            Communication, motivation, leadership, project management, collaborative negotiation, conflict management.
         - name: Clinical Research
           # start: 2019
           # end:
@@ -202,7 +202,7 @@ certifications:
           # credentialurl: www.github.com
           # credentialname: Github
           details: |
-            GCP, epidemiology, data management for clinical research, questionnaire design, protecting human research participants.
+            GCP, epidemiology, data management for clinical research, questionnaire design, protecting human research participants, REDCap, secuTrial.
         - name: IT Training
           # start: 2019
           # end:
