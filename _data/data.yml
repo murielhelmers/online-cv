@@ -182,46 +182,34 @@ education:
           - Grade: 68/100, passed with merit 
 
 
-# certifications:
-#       title: Certifications
-#       list:
-#         - name: CV Builder
-#           start: 2020
-#           end: 2021
-#           organization: Microsoft
-#           credentialid: 111-222
-#           credentialurl: www.google.com
-#           credentialname: Google
-#           details: |
-#             Details about cert. Lorem ipsum dolor sit amet, consectetur
-#             adipiscing elit.
-#             Nullam eget orci purus. Nullam ultrices neque nibh.
-#             Aenean fermentum, felis vulputate suscipit accumsan,
-#             sem enim bibendum augue, sed convallis arcu lacus at dui.
-#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#             Praesent venenatis erat non augue suscipit consectetur.
-# 
-#             Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-#             fringilla vel. Ut euismod, sem sed vulputate venenatis,
-#             justo diam viverra velit, sed rhoncus leo leo eu justo.
-#             Suspendisse placerat risus ante, sed porta nisi blandit at.
-#         - name: Git learning
-#           start: 2019
-#           end:
-#           organization: Microsoft
-#           credentialid: 111-222
-#           credentialurl: www.github.com
-#           credentialname: Github
-#           details: |
-#             Older certification. Lorem ipsum dolor sit amet, consectetur
-#             adipiscing elit.
-#             Nullam eget orci purus. Nullam ultrices neque nibh.
-#             Aenean fermentum, felis vulputate suscipit accumsan,
-#             sem enim bibendum augue, sed convallis arcu lacus at dui.
-#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#             Praesent venenatis erat non augue suscipit consectetur.
+certifications:
+      title: Professional Development
+      list:
+        - name: General Training
+          # start: 2020
+          # end: 2021
+          # organization: Microsoft
+          # credentialid: 111-222
+          # credentialurl: www.google.com
+          # credentialname: Google
+          details: |
+            Communication, leadership, project management, collaborative negotiation, conflict management, security in the field
+        - name: IT training
+          # start: 2019
+          # end:
+          # organization: Microsoft
+          # credentialid: 111-222
+          # credentialurl: www.github.com
+          # credentialname: Github
+          details: |
+            R, Shiny, Quarto, Data visualisation, WebServices, SQL, SQL Server administration
+            # adipiscing elit.
+            # Nullam eget orci purus. Nullam ultrices neque nibh.
+            # Aenean fermentum, felis vulputate suscipit accumsan,
+            # sem enim bibendum augue, sed convallis arcu lacus at dui.
+            # Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            # Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            # Praesent venenatis erat non augue suscipit consectetur.
 
 # projects:
 #     title: Projects
@@ -269,22 +257,22 @@ education:
 #         link: "#"
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Professional Development
-    intro: |
-      Master thesis in the field of AI and the generation of artificial training data.
-    contributions:
-      - title: General Training
-        link: "#"
-        tagline: Communication, leadership, project management, collaborative negotiation, conflict management, security in the field
-
-      - title: IT Training
-        link: "#"
-        tagline: R, Shiny, Quarto, Data visualisation, WebServices, SQL, SQL Server administration
-
-      - title: Miscellaneous
-        link: "#"
-        tagline: Flight training Cessna 152, Kundalini Yoga
+# publications:
+#     title: Professional Development
+#     intro: |
+#       Master thesis in the field of AI and the generation of artificial training data.
+#     contributions:
+#       - title: General Training
+#         link: "#"
+#         tagline: Communication, leadership, project management, collaborative negotiation, conflict management, security in the field
+# 
+#       - title: IT Training
+#         link: "#"
+#         tagline: R, Shiny, Quarto, Data visualisation, WebServices, SQL, SQL Server administration
+# 
+#       - title: Miscellaneous
+#         link: "#"
+#         tagline: Flight training Cessna 152, Kundalini Yoga (75h, 50h)
 
 # publications:
 #     title: Publications
